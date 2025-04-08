@@ -8,4 +8,4 @@ let str2 = 'Sahil_36'
 let str3 = str1 + str2
 console.log(str3)
 
-console.log()
+console.log(NegValue)
