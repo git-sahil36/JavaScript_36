@@ -12,4 +12,13 @@ let isLoggedIn = false
 
 console.log(name)
 console.log(age)
-console.log(isLoggedIn)
+console.log(isLoggedIn) 
+
+// number int value ranges from => 2 to power 53
+// bigint stores => really big numbers
+// string datatype should be enclosed in " " , ' '
+// boolean values can either be TRUE or FALSE
+// null => standalone value Eg. let state = null || itis a special object.
+// undefined => let state = ; || it is a object. 
+
+// maintain the differences.
